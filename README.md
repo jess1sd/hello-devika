@@ -100,6 +100,10 @@ Now you can hit `localhost:3000` to test out the app
 I just follow the Devika instruction 
 [Getting-Started](https://github.com/stitionai/devika?tab=readme-ov-file#getting-started)
 
+<img src="images/running-devika.png" alt="Running Devika" width="800"/>
+
+<img src="images/devika-show-tic-tac-toe-code.png" alt="Show TicTacToe code" width="800"/>
+<img src="images/run-devika-gen-code.png" alt="Running Devika-Gen Code" width="800"/>
 
 
 # Additional Info 
@@ -138,3 +142,8 @@ curl -X GET 'https://api.bing.microsoft.com/v7.0/search?q=Microsoft' \
 ## Get Claude Key
 
 Create an Anthropic account at https://www.anthropic.com/ and go to https://console.anthropic.com/dashboard
+
+# Helpful Resources (for me)
+The discord server is pretty helpful and that's where I found answers to most of my questions.
+
+Learn more about it and join it using this [link](https://github.com/stitionai/devika?tab=readme-ov-file#community-discord-server)
