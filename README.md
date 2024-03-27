@@ -8,10 +8,11 @@ to code creation._
 # Step 1: Install required software
 
 ## Install python
-
+On Ubuntu
 ``` 
 sudo apt-get install python3
 ```
+For more on how to install python on Linux, check out [Setup Python on Linux](https://shallwelearn.com/2024/03/26/set-up-python-dev-env-on-linux-beginner/)
 
 ## Install uv
 
